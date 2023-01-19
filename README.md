@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-  <span class="animated-text">A highly motivated and skilled software developer with experience in Python, web development, and machine learning using scikit-learn. Strong background in developing and maintaining web applications, utilizing Python for data analysis and manipulation, and using scikit-learn for building and evaluating machine learning models. Proven ability to work effectively both independently and in a team environment, with excellent problem-solving skills.</span>
+  <span class="animated-text">A highly motivated and skilled software developer with experience in Python, web development, and machine learning using scikit-learn. Familiar with developing and maintaining web applications, utilizing Python for data analysis and manipulation, and using scikit-learn for building and evaluating machine learning models. Proven ability to work effectively both independently and in a team environment, with excellent problem-solving skills.</span>
   </strong>
 </p>
 
