@@ -1,4 +1,4 @@
-<h1 align="center">Resume</h1>
+<h1 align="center">About Me!!</h1>
 
 <p align="center">
   <strong>
@@ -10,28 +10,10 @@
 
 - 🐍 <span class="animated-text">Proficient in Python and web development technologies, including HTML, CSS, and JavaScript</span>
 - 📚 <span class="animated-text">Strong experience with machine learning and data analysis using scikit-learn</span>
-- 🌐 <span class="animated-text">Experience with popular web frameworks such as Django and Flask</span>
 - 📈 <span class="animated-text">Proficient in data manipulation and visualization using Python libraries such as Pandas and Matplotlib</span>
 - 💻 <span class="animated-text"> Strong understanding of software development principles and ability to write clean, well-documented code</span>
-- 🗄️ <span class="animated-text">Experience working with databases, such as MySQL and MongoDB</span>
-- 🚩 <span class="animated-text">Familiar with version control systems such as Git</span>
+- 🗄️ <span class="animated-text">Experience working with databases, such as MySQL</span>
 - 🧠 <span class="animated-text"> Strong problem-solving and analytical skills</span>
 - 👨‍💼 <span class="animated-text">Experience working in a team environment and good communication skills</span>
 
-<style>
-.animated-text {
-  animation: animated-text 3s linear infinite;
-}
 
-@keyframes animated-text {
-  0% {
-    color: #1E90FF;
-  }
-  50% {
-    color: #228B22;
-  }
-  100% {
-    color: #1E90FF;
-  }
-}
-</style>
