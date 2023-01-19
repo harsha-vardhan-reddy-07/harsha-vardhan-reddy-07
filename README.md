@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-  <span class="animated-text">A highly motivated and skilled software developer with experience in Python, web development, and machine learning using scikit-learn. Familiar with developing and maintaining web applications, utilizing Python for data analysis and manipulation, and using scikit-learn for building and evaluating machine learning models. Proven ability to work effectively both independently and in a team environment, with excellent problem-solving skills.</span>
+  <span class="animated-text">I am a highly motivated and skilled software developer with a diverse set of abilities and experience. My expertise lies in utilizing Python for data analysis, as well as using machine learning libraries such as scikit-learn. I have a strong background in developing and maintaining web applications, and am well-versed in popular web development framework Reaact Js. Additionally, I am proficient in data manipulation and visualization using Python libraries such as Pandas and Matplotlib. I am also a quick learner and have strong problem-solving and analytical skills. I am a team player and have good communication skills.</span>
   </strong>
 </p>
 
